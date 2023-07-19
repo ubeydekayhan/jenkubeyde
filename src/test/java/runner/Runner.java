@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
                 "junit:src/test/resources/features/htmlReport/cucumber.xml",
                 "rerun:TestOutput/failed_scenario.txt",
                 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"},
-        tags = "@US01Api",
+        tags = "@US04Api",
         glue = {"stepdefinitions","hooks"},
         features = "src/test/resources/",
         dryRun = false
