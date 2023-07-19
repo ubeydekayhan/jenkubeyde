@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="9.871" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Add_Dean" name="US04 Add Dean (Api) - Example #1.1" time="9.548">
+<system-out><![CDATA[
+Given Post request for add dean with username="username", name="name", surname="surname", birthDay="birthDay", ssn="ssn", birthPlace="birthPlace", phoneNumber="phoneNumber", gender="gender", password="password".passed
+Then verify addition........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

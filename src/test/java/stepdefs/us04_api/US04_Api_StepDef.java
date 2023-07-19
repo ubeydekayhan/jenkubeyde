@@ -1,4 +1,4 @@
-package stepdefs.us_04_api;
+package stepdefs.us04_api;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
